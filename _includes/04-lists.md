@@ -1,1 +1,11 @@
-Replace this with a list of your favorite things.
+- china
+- japan
+- english
+  - london
+  - newyork
+
+
+* fs
+* 🥇
+* :feelsgood:
+* 😠
